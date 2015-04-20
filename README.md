@@ -1,6 +1,8 @@
 # ami-viz
 Interactive network visualisation of summarised output from [The Content Mine's](http://contentmine.org/) [AMI plug-in](https://github.com/ContentMine/ami-plugin).
 
+![ami-viz screenshot](https://raw.githubusercontent.com/matthewgthomas/ami-viz/master/screenshot.png)
+
 This implementation borrows heavily from [Jim Vallandingham's](https://twitter.com/vlandham) [Interactive Network Visualisation example](http://vallandingham.me/interactive_networks.html).
 
 ## Input files
