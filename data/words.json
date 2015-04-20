@@ -1,0 +1,677 @@
+{
+ "nodes": [
+ {
+ "id": [ "social" ],
+"name": [ "social" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    353 ] 
+},
+{
+ "id": [ "cooperation" ],
+"name": [ "cooperation" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    193 ] 
+},
+{
+ "id": [ "participants" ],
+"name": [ "participants" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    180 ] 
+},
+{
+ "id": [ "behavior" ],
+"name": [ "behavior" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    170 ] 
+},
+{
+ "id": [ "study" ],
+"name": [ "study" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    155 ] 
+},
+{
+ "id": [ "children" ],
+"name": [ "children" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    154 ] 
+},
+{
+ "id": [ "reciprocity" ],
+"name": [ "reciprocity" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    148 ] 
+},
+{
+ "id": [ "individuals" ],
+"name": [ "individuals" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    144 ] 
+},
+{
+ "id": [ "chimpanzees" ],
+"name": [ "chimpanzees" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    142 ] 
+},
+{
+ "id": [ "human" ],
+"name": [ "human" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC4339830" ],
+"name": [ "Increasing organ donation by presumed consent and allocation priority: Chile." ],
+"url": [ "10.2471/blt.14.139535" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3661668" ],
+"name": [ "Evolution of cooperation: combining kin selection and reciprocal altruism into matrix games with social dilemmas." ],
+"url": [ "10.1371/journal.pone.0063761" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC4211412" ],
+"name": [ "Chill-inducing music enhances altruism in humans." ],
+"url": [ "10.3389/fpsyg.2014.01215" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3909280" ],
+"name": [ "Making the case for directed organ donation to registered donors in Israel." ],
+"url": [ "10.1186/2045-4015-3-1" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3981800" ],
+"name": [ "Does human body odor represent a significant and rewarding social signal to individuals high in social openness?" ],
+"url": [ "10.1371/journal.pone.0094314" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3885520" ],
+"name": [ "Predictors of grandparental investment decisions in contemporary Europe: biological relatedness and beyond." ],
+"url": [ "10.1371/journal.pone.0084082" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC4010415" ],
+"name": [ "The effects of extra-somatic weapons on the evolution of human cooperation towards non-kin." ],
+"url": [ "10.1371/journal.pone.0095742" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3707967" ],
+"name": [ "Is beauty in the face of the beholder?" ],
+"url": [ "10.1371/journal.pone.0068395" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3827203" ],
+"name": [ "Family income affects children's altruistic behavior in the dictator game." ],
+"url": [ "10.1371/journal.pone.0080419" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3737411" ],
+"name": [ "Recovery from posttraumatic stress symptoms: a qualitative study of attributions in survivors of war." ],
+"url": [ "10.1371/journal.pone.0070579" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3334524" ],
+"name": [ "Moral assessment in indirect reciprocity." ],
+"url": [ "10.1016/j.jtbi.2011.03.024" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3426088" ],
+"name": [ "Human responses to unfairness with primary rewards and their biological limits." ],
+"url": [ "10.1038/srep00593" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3477107" ],
+"name": [ "Does facial resemblance enhance cooperation?" ],
+"url": [ "10.1371/journal.pone.0047809" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3037397" ],
+"name": [ "It's the recipient that counts: spending money on strong social ties leads to greater happiness than spending on weak social ties." ],
+"url": [ "10.1371/journal.pone.0017018" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC3084729" ],
+"name": [ "The good, the bad, and the rare: memory for partners in social interactions." ],
+"url": [ "10.1371/journal.pone.0018945" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC1950304" ],
+"name": [ "High-testosterone men reject low ultimatum game offers." ],
+"url": [ "10.1098/rspb.2007.0546" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC2673683" ],
+"name": [ "Helpful female subordinate cichlids are more likely to reproduce." ],
+"url": [ "10.1371/journal.pone.0005458" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC1914408" ],
+"name": [ "Generalized reciprocity in rats." ],
+"url": [ "10.1371/journal.pbio.0050196" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC2614108" ],
+"name": [ "Population dynamics constrain the cooperative evolution of cross-feeding." ],
+"url": [ "10.1371/journal.pone.0004115" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC2698971" ],
+"name": [ "Chimpanzees (Pan troglodytes) do not develop contingent reciprocity in an experimental task." ],
+"url": [ "10.1007/s10071-009-0218-z" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC2596313" ],
+"name": [ "Game theory of mind." ],
+"url": [ "10.1371/journal.pcbi.1000254" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC387274" ],
+"name": [ "A pacific culture among wild baboons: its emergence and transmission." ],
+"url": [ "10.1371/journal.pbio.0020106" ],
+"type": [      2 ],
+"size": [    141 ] 
+},
+{
+ "id": [ "PMC1896184" ],
+"name": [ "Spontaneous altruism by chimpanzees and young children." ],
+"url": [ "10.1371/journal.pbio.0050184" ],
+"type": [      2 ],
+"size": [    141 ] 
+} 
+],
+"links": [
+ {
+ "source": [ "PMC4339830" ],
+"target": [ "individuals" ],
+"count": [ 9 ] 
+},
+{
+ "source": [ "PMC4339830" ],
+"target": [ "reciprocity" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC3661668" ],
+"target": [ "cooperation" ],
+"count": [ 31 ] 
+},
+{
+ "source": [ "PMC3661668" ],
+"target": [ "social" ],
+"count": [ 18 ] 
+},
+{
+ "source": [ "PMC3661668" ],
+"target": [ "individuals" ],
+"count": [ 15 ] 
+},
+{
+ "source": [ "PMC3661668" ],
+"target": [ "reciprocity" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC4211412" ],
+"target": [ "behavior" ],
+"count": [ 25 ] 
+},
+{
+ "source": [ "PMC4211412" ],
+"target": [ "participants" ],
+"count": [ 25 ] 
+},
+{
+ "source": [ "PMC4211412" ],
+"target": [ "human" ],
+"count": [ 18 ] 
+},
+{
+ "source": [ "PMC4211412" ],
+"target": [ "social" ],
+"count": [ 13 ] 
+},
+{
+ "source": [ "PMC4211412" ],
+"target": [ "study" ],
+"count": [ 9 ] 
+},
+{
+ "source": [ "PMC3909280" ],
+"target": [ "social" ],
+"count": [ 11 ] 
+},
+{
+ "source": [ "PMC3909280" ],
+"target": [ "individuals" ],
+"count": [ 8 ] 
+},
+{
+ "source": [ "PMC3909280" ],
+"target": [ "study" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC3981800" ],
+"target": [ "social" ],
+"count": [ 124 ] 
+},
+{
+ "source": [ "PMC3981800" ],
+"target": [ "individuals" ],
+"count": [ 39 ] 
+},
+{
+ "source": [ "PMC3981800" ],
+"target": [ "human" ],
+"count": [ 24 ] 
+},
+{
+ "source": [ "PMC3981800" ],
+"target": [ "participants" ],
+"count": [ 21 ] 
+},
+{
+ "source": [ "PMC3981800" ],
+"target": [ "study" ],
+"count": [ 9 ] 
+},
+{
+ "source": [ "PMC3981800" ],
+"target": [ "behavior" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC3885520" ],
+"target": [ "children" ],
+"count": [ 38 ] 
+},
+{
+ "source": [ "PMC3885520" ],
+"target": [ "study" ],
+"count": [ 12 ] 
+},
+{
+ "source": [ "PMC3885520" ],
+"target": [ "social" ],
+"count": [ 6 ] 
+},
+{
+ "source": [ "PMC3885520" ],
+"target": [ "human" ],
+"count": [ 6 ] 
+},
+{
+ "source": [ "PMC3885520" ],
+"target": [ "behavior" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC4010415" ],
+"target": [ "human" ],
+"count": [ 34 ] 
+},
+{
+ "source": [ "PMC4010415" ],
+"target": [ "cooperation" ],
+"count": [ 17 ] 
+},
+{
+ "source": [ "PMC4010415" ],
+"target": [ "individuals" ],
+"count": [ 14 ] 
+},
+{
+ "source": [ "PMC4010415" ],
+"target": [ "reciprocity" ],
+"count": [ 13 ] 
+},
+{
+ "source": [ "PMC4010415" ],
+"target": [ "study" ],
+"count": [ 8 ] 
+},
+{
+ "source": [ "PMC3827203" ],
+"target": [ "children" ],
+"count": [ 89 ] 
+},
+{
+ "source": [ "PMC3827203" ],
+"target": [ "social" ],
+"count": [ 36 ] 
+},
+{
+ "source": [ "PMC3827203" ],
+"target": [ "study" ],
+"count": [ 34 ] 
+},
+{
+ "source": [ "PMC3827203" ],
+"target": [ "behavior" ],
+"count": [ 12 ] 
+},
+{
+ "source": [ "PMC3827203" ],
+"target": [ "participants" ],
+"count": [ 6 ] 
+},
+{
+ "source": [ "PMC3827203" ],
+"target": [ "human" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC3737411" ],
+"target": [ "participants" ],
+"count": [ 69 ] 
+},
+{
+ "source": [ "PMC3737411" ],
+"target": [ "social" ],
+"count": [ 45 ] 
+},
+{
+ "source": [ "PMC3737411" ],
+"target": [ "study" ],
+"count": [ 31 ] 
+},
+{
+ "source": [ "PMC3737411" ],
+"target": [ "children" ],
+"count": [ 13 ] 
+},
+{
+ "source": [ "PMC3737411" ],
+"target": [ "human" ],
+"count": [ 8 ] 
+},
+{
+ "source": [ "PMC3334524" ],
+"target": [ "reciprocity" ],
+"count": [ 50 ] 
+},
+{
+ "source": [ "PMC3334524" ],
+"target": [ "cooperation" ],
+"count": [ 15 ] 
+},
+{
+ "source": [ "PMC3334524" ],
+"target": [ "social" ],
+"count": [ 7 ] 
+},
+{
+ "source": [ "PMC3334524" ],
+"target": [ "behavior" ],
+"count": [ 6 ] 
+},
+{
+ "source": [ "PMC3334524" ],
+"target": [ "individuals" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "cooperation" ],
+"count": [ 48 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "participants" ],
+"count": [ 39 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "study" ],
+"count": [ 20 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "behavior" ],
+"count": [ 13 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "social" ],
+"count": [ 11 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "human" ],
+"count": [ 7 ] 
+},
+{
+ "source": [ "PMC3477107" ],
+"target": [ "individuals" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC3037397" ],
+"target": [ "social" ],
+"count": [ 31 ] 
+},
+{
+ "source": [ "PMC3037397" ],
+"target": [ "participants" ],
+"count": [ 20 ] 
+},
+{
+ "source": [ "PMC3037397" ],
+"target": [ "study" ],
+"count": [ 7 ] 
+},
+{
+ "source": [ "PMC3037397" ],
+"target": [ "individuals" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC2673683" ],
+"target": [ "social" ],
+"count": [ 9 ] 
+},
+{
+ "source": [ "PMC2673683" ],
+"target": [ "behavior" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC2673683" ],
+"target": [ "reciprocity" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "reciprocity" ],
+"count": [ 39 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "cooperation" ],
+"count": [ 35 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "behavior" ],
+"count": [ 31 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "social" ],
+"count": [ 16 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "individuals" ],
+"count": [ 15 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "study" ],
+"count": [ 9 ] 
+},
+{
+ "source": [ "PMC1914408" ],
+"target": [ "human" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC2614108" ],
+"target": [ "cooperation" ],
+"count": [ 16 ] 
+},
+{
+ "source": [ "PMC2614108" ],
+"target": [ "individuals" ],
+"count": [ 13 ] 
+},
+{
+ "source": [ "PMC2614108" ],
+"target": [ "behavior" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC2614108" ],
+"target": [ "study" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "chimpanzees" ],
+"count": [ 81 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "behavior" ],
+"count": [ 54 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "reciprocity" ],
+"count": [ 33 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "cooperation" ],
+"count": [ 25 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "individuals" ],
+"count": [ 17 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "social" ],
+"count": [ 14 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "study" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "human" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC2596313" ],
+"target": [ "social" ],
+"count": [ 7 ] 
+},
+{
+ "source": [ "PMC2596313" ],
+"target": [ "cooperation" ],
+"count": [ 6 ] 
+},
+{
+ "source": [ "PMC2596313" ],
+"target": [ "human" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC1896184" ],
+"target": [ "chimpanzees" ],
+"count": [ 61 ] 
+},
+{
+ "source": [ "PMC1896184" ],
+"target": [ "human" ],
+"count": [ 25 ] 
+},
+{
+ "source": [ "PMC1896184" ],
+"target": [ "children" ],
+"count": [ 14 ] 
+},
+{
+ "source": [ "PMC1896184" ],
+"target": [ "behavior" ],
+"count": [ 13 ] 
+},
+{
+ "source": [ "PMC1896184" ],
+"target": [ "social" ],
+"count": [ 5 ] 
+},
+{
+ "source": [ "PMC1896184" ],
+"target": [ "study" ],
+"count": [ 4 ] 
+} 
+] 
+}

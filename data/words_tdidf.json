@@ -1,0 +1,432 @@
+{
+ "nodes": [
+ {
+ "id": [ "organ" ],
+"name": [ "organ" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 3.1123 ] 
+},
+{
+ "id": [ "cross-feeding" ],
+"name": [ "cross-feeding" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [  2.722 ] 
+},
+{
+ "id": [ "music" ],
+"name": [ "music" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 2.2889 ] 
+},
+{
+ "id": [ "spending" ],
+"name": [ "spending" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 2.1812 ] 
+},
+{
+ "id": [ "priority" ],
+"name": [ "priority" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.8443 ] 
+},
+{
+ "id": [ "subordinate" ],
+"name": [ "subordinate" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.8045 ] 
+},
+{
+ "id": [ "grandparents" ],
+"name": [ "grandparents" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [   1.78 ] 
+},
+{
+ "id": [ "weak" ],
+"name": [ "weak" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.6581 ] 
+},
+{
+ "id": [ "biological" ],
+"name": [ "biological" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.5987 ] 
+},
+{
+ "id": [ "consent" ],
+"name": [ "consent" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.5922 ] 
+},
+{
+ "id": [ "rats" ],
+"name": [ "rats" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.5135 ] 
+},
+{
+ "id": [ "alloparental" ],
+"name": [ "alloparental" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.4144 ] 
+},
+{
+ "id": [ "ESS" ],
+"name": [ "ESS" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.3727 ] 
+},
+{
+ "id": [ "weapons" ],
+"name": [ "weapons" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.3505 ] 
+},
+{
+ "id": [ "tie" ],
+"name": [ "tie" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.2831 ] 
+},
+{
+ "id": [ "grandparental" ],
+"name": [ "grandparental" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.2691 ] 
+},
+{
+ "id": [ "faces" ],
+"name": [ "faces" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [  1.256 ] 
+},
+{
+ "id": [ "dominant" ],
+"name": [ "dominant" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.2437 ] 
+},
+{
+ "id": [ "investment" ],
+"name": [ "investment" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.2404 ] 
+},
+{
+ "id": [ "donation" ],
+"name": [ "donation" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC4339830" ],
+"name": [ "Increasing organ donation by presumed consent and allocation priority: Chile." ],
+"url": [ "10.2471/blt.14.139535" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3661668" ],
+"name": [ "Evolution of cooperation: combining kin selection and reciprocal altruism into matrix games with social dilemmas." ],
+"url": [ "10.1371/journal.pone.0063761" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC4211412" ],
+"name": [ "Chill-inducing music enhances altruism in humans." ],
+"url": [ "10.3389/fpsyg.2014.01215" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3909280" ],
+"name": [ "Making the case for directed organ donation to registered donors in Israel." ],
+"url": [ "10.1186/2045-4015-3-1" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3981800" ],
+"name": [ "Does human body odor represent a significant and rewarding social signal to individuals high in social openness?" ],
+"url": [ "10.1371/journal.pone.0094314" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3885520" ],
+"name": [ "Predictors of grandparental investment decisions in contemporary Europe: biological relatedness and beyond." ],
+"url": [ "10.1371/journal.pone.0084082" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC4010415" ],
+"name": [ "The effects of extra-somatic weapons on the evolution of human cooperation towards non-kin." ],
+"url": [ "10.1371/journal.pone.0095742" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3707967" ],
+"name": [ "Is beauty in the face of the beholder?" ],
+"url": [ "10.1371/journal.pone.0068395" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3827203" ],
+"name": [ "Family income affects children's altruistic behavior in the dictator game." ],
+"url": [ "10.1371/journal.pone.0080419" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3737411" ],
+"name": [ "Recovery from posttraumatic stress symptoms: a qualitative study of attributions in survivors of war." ],
+"url": [ "10.1371/journal.pone.0070579" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3334524" ],
+"name": [ "Moral assessment in indirect reciprocity." ],
+"url": [ "10.1016/j.jtbi.2011.03.024" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3426088" ],
+"name": [ "Human responses to unfairness with primary rewards and their biological limits." ],
+"url": [ "10.1038/srep00593" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3477107" ],
+"name": [ "Does facial resemblance enhance cooperation?" ],
+"url": [ "10.1371/journal.pone.0047809" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3037397" ],
+"name": [ "It's the recipient that counts: spending money on strong social ties leads to greater happiness than spending on weak social ties." ],
+"url": [ "10.1371/journal.pone.0017018" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC3084729" ],
+"name": [ "The good, the bad, and the rare: memory for partners in social interactions." ],
+"url": [ "10.1371/journal.pone.0018945" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC1950304" ],
+"name": [ "High-testosterone men reject low ultimatum game offers." ],
+"url": [ "10.1098/rspb.2007.0546" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC2673683" ],
+"name": [ "Helpful female subordinate cichlids are more likely to reproduce." ],
+"url": [ "10.1371/journal.pone.0005458" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC1914408" ],
+"name": [ "Generalized reciprocity in rats." ],
+"url": [ "10.1371/journal.pbio.0050196" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC2614108" ],
+"name": [ "Population dynamics constrain the cooperative evolution of cross-feeding." ],
+"url": [ "10.1371/journal.pone.0004115" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC2698971" ],
+"name": [ "Chimpanzees (Pan troglodytes) do not develop contingent reciprocity in an experimental task." ],
+"url": [ "10.1007/s10071-009-0218-z" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC2596313" ],
+"name": [ "Game theory of mind." ],
+"url": [ "10.1371/journal.pcbi.1000254" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC387274" ],
+"name": [ "A pacific culture among wild baboons: its emergence and transmission." ],
+"url": [ "10.1371/journal.pbio.0020106" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+},
+{
+ "id": [ "PMC1896184" ],
+"name": [ "Spontaneous altruism by chimpanzees and young children." ],
+"url": [ "10.1371/journal.pbio.0050184" ],
+"type": [      2 ],
+"size": [ 1.2103 ] 
+} 
+],
+"links": [
+ {
+ "source": [ "alloparental" ],
+"target": [ "PMC2673683" ],
+"count": [ 1.4144 ] 
+},
+{
+ "source": [ "biological" ],
+"target": [ "PMC3885520" ],
+"count": [ 1.5987 ] 
+},
+{
+ "source": [ "consent" ],
+"target": [ "PMC4339830" ],
+"count": [ 1.5922 ] 
+},
+{
+ "source": [ "cross-feeding" ],
+"target": [ "PMC2614108" ],
+"count": [  2.722 ] 
+},
+{
+ "source": [ "dominant" ],
+"target": [ "PMC2673683" ],
+"count": [ 1.2437 ] 
+},
+{
+ "source": [ "donation" ],
+"target": [ "PMC4339830" ],
+"count": [ 1.2103 ] 
+},
+{
+ "source": [ "donation" ],
+"target": [ "PMC3909280" ],
+"count": [ 0.62473 ] 
+},
+{
+ "source": [ "ESS" ],
+"target": [ "PMC3661668" ],
+"count": [ 1.3727 ] 
+},
+{
+ "source": [ "faces" ],
+"target": [ "PMC3477107" ],
+"count": [  1.256 ] 
+},
+{
+ "source": [ "grandparental" ],
+"target": [ "PMC3885520" ],
+"count": [ 1.2691 ] 
+},
+{
+ "source": [ "grandparents" ],
+"target": [ "PMC3885520" ],
+"count": [   1.78 ] 
+},
+{
+ "source": [ "investment" ],
+"target": [ "PMC3885520" ],
+"count": [ 1.2404 ] 
+},
+{
+ "source": [ "investment" ],
+"target": [ "PMC3477107" ],
+"count": [ 0.04774 ] 
+},
+{
+ "source": [ "music" ],
+"target": [ "PMC4211412" ],
+"count": [ 2.2889 ] 
+},
+{
+ "source": [ "organ" ],
+"target": [ "PMC4339830" ],
+"count": [ 3.1123 ] 
+},
+{
+ "source": [ "organ" ],
+"target": [ "PMC3909280" ],
+"count": [ 0.85611 ] 
+},
+{
+ "source": [ "priority" ],
+"target": [ "PMC4339830" ],
+"count": [ 1.8443 ] 
+},
+{
+ "source": [ "priority" ],
+"target": [ "PMC3909280" ],
+"count": [ 0.13883 ] 
+},
+{
+ "source": [ "rats" ],
+"target": [ "PMC1914408" ],
+"count": [ 1.5135 ] 
+},
+{
+ "source": [ "spending" ],
+"target": [ "PMC3037397" ],
+"count": [ 2.1812 ] 
+},
+{
+ "source": [ "subordinate" ],
+"target": [ "PMC2673683" ],
+"count": [ 1.8045 ] 
+},
+{
+ "source": [ "tie" ],
+"target": [ "PMC3037397" ],
+"count": [ 1.2831 ] 
+},
+{
+ "source": [ "weak" ],
+"target": [ "PMC3981800" ],
+"count": [ 0.093233 ] 
+},
+{
+ "source": [ "weak" ],
+"target": [ "PMC3037397" ],
+"count": [ 1.6581 ] 
+},
+{
+ "source": [ "weapons" ],
+"target": [ "PMC4010415" ],
+"count": [ 1.3505 ] 
+} 
+] 
+}

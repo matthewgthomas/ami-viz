@@ -1,0 +1,275 @@
+{
+ "nodes": [
+ {
+ "id": [ "Cyanocitta cristata" ],
+"name": [ "Cyanocitta cristata" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "Escherichia coli" ],
+"name": [ "Escherichia coli" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      4 ] 
+},
+{
+ "id": [ "Gasterosteus aculeatus" ],
+"name": [ "Gasterosteus aculeatus" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "Grandparental investment" ],
+"name": [ "Grandparental investment" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "Neolamprologus pulcher" ],
+"name": [ "Neolamprologus pulcher" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      7 ] 
+},
+{
+ "id": [ "Pan troglodytes" ],
+"name": [ "Pan troglodytes" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "Rattus norvegicus" ],
+"name": [ "Rattus norvegicus" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "Saguinus oedipus" ],
+"name": [ "Saguinus oedipus" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "Salmonella enterica" ],
+"name": [ "Salmonella enterica" ],
+"url": [ "" ],
+"type": [      1 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC4339830" ],
+"name": [ "Increasing organ donation by presumed consent and allocation priority: Chile." ],
+"url": [ "10.2471/blt.14.139535" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3661668" ],
+"name": [ "Evolution of cooperation: combining kin selection and reciprocal altruism into matrix games with social dilemmas." ],
+"url": [ "10.1371/journal.pone.0063761" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC4211412" ],
+"name": [ "Chill-inducing music enhances altruism in humans." ],
+"url": [ "10.3389/fpsyg.2014.01215" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3909280" ],
+"name": [ "Making the case for directed organ donation to registered donors in Israel." ],
+"url": [ "10.1186/2045-4015-3-1" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3981800" ],
+"name": [ "Does human body odor represent a significant and rewarding social signal to individuals high in social openness?" ],
+"url": [ "10.1371/journal.pone.0094314" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3885520" ],
+"name": [ "Predictors of grandparental investment decisions in contemporary Europe: biological relatedness and beyond." ],
+"url": [ "10.1371/journal.pone.0084082" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC4010415" ],
+"name": [ "The effects of extra-somatic weapons on the evolution of human cooperation towards non-kin." ],
+"url": [ "10.1371/journal.pone.0095742" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3707967" ],
+"name": [ "Is beauty in the face of the beholder?" ],
+"url": [ "10.1371/journal.pone.0068395" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3827203" ],
+"name": [ "Family income affects children's altruistic behavior in the dictator game." ],
+"url": [ "10.1371/journal.pone.0080419" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3737411" ],
+"name": [ "Recovery from posttraumatic stress symptoms: a qualitative study of attributions in survivors of war." ],
+"url": [ "10.1371/journal.pone.0070579" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3334524" ],
+"name": [ "Moral assessment in indirect reciprocity." ],
+"url": [ "10.1016/j.jtbi.2011.03.024" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3426088" ],
+"name": [ "Human responses to unfairness with primary rewards and their biological limits." ],
+"url": [ "10.1038/srep00593" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3477107" ],
+"name": [ "Does facial resemblance enhance cooperation?" ],
+"url": [ "10.1371/journal.pone.0047809" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3037397" ],
+"name": [ "It's the recipient that counts: spending money on strong social ties leads to greater happiness than spending on weak social ties." ],
+"url": [ "10.1371/journal.pone.0017018" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC3084729" ],
+"name": [ "The good, the bad, and the rare: memory for partners in social interactions." ],
+"url": [ "10.1371/journal.pone.0018945" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC1950304" ],
+"name": [ "High-testosterone men reject low ultimatum game offers." ],
+"url": [ "10.1098/rspb.2007.0546" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC2673683" ],
+"name": [ "Helpful female subordinate cichlids are more likely to reproduce." ],
+"url": [ "10.1371/journal.pone.0005458" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC1914408" ],
+"name": [ "Generalized reciprocity in rats." ],
+"url": [ "10.1371/journal.pbio.0050196" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC2614108" ],
+"name": [ "Population dynamics constrain the cooperative evolution of cross-feeding." ],
+"url": [ "10.1371/journal.pone.0004115" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC2698971" ],
+"name": [ "Chimpanzees (Pan troglodytes) do not develop contingent reciprocity in an experimental task." ],
+"url": [ "10.1007/s10071-009-0218-z" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC2596313" ],
+"name": [ "Game theory of mind." ],
+"url": [ "10.1371/journal.pcbi.1000254" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC387274" ],
+"name": [ "A pacific culture among wild baboons: its emergence and transmission." ],
+"url": [ "10.1371/journal.pbio.0020106" ],
+"type": [      2 ],
+"size": [      1 ] 
+},
+{
+ "id": [ "PMC1896184" ],
+"name": [ "Spontaneous altruism by chimpanzees and young children." ],
+"url": [ "10.1371/journal.pbio.0050184" ],
+"type": [      2 ],
+"size": [      1 ] 
+} 
+],
+"links": [
+ {
+ "source": [ "PMC2698971" ],
+"target": [ "Cyanocitta cristata" ],
+"count": [ 1 ] 
+},
+{
+ "source": [ "PMC2614108" ],
+"target": [ "Escherichia coli" ],
+"count": [ 4 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "Gasterosteus aculeatus" ],
+"count": [ 1 ] 
+},
+{
+ "source": [ "PMC3885520" ],
+"target": [ "Grandparental investment" ],
+"count": [ 1 ] 
+},
+{
+ "source": [ "PMC2673683" ],
+"target": [ "Neolamprologus pulcher" ],
+"count": [ 7 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "Pan troglodytes" ],
+"count": [ 1 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "Rattus norvegicus" ],
+"count": [ 1 ] 
+},
+{
+ "source": [ "PMC2698971" ],
+"target": [ "Saguinus oedipus" ],
+"count": [ 1 ] 
+},
+{
+ "source": [ "PMC2614108" ],
+"target": [ "Salmonella enterica" ],
+"count": [ 1 ] 
+} 
+] 
+}
