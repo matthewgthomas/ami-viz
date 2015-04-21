@@ -13,5 +13,6 @@ Open `index.html`. It works best if you run a local web server:
 
 - either `thin start` (this repository contain a Gemfile and a config file for `thin`)
 - or `python -m SimpleHTTPServer`
+- or [`http-server`](https://www.npmjs.com/package/http-server) (install [node.js](nodejs.org) first)
 
 Blue nodes are keywords, species names etc. Orange nodes are articles. Hover over nodes for more info. Click article nodes to view the original paper. In case the networks are too big (for example if you have hundreds of articles), use your mouse's scroll wheel to zoom in/out. You can also drag the network around the screen.
